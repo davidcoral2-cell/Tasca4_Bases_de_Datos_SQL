@@ -1,0 +1,1 @@
+select * from `Exercici 4`.Poliza;
