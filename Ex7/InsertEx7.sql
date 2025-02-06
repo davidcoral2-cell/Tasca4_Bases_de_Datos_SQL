@@ -1,14 +1,13 @@
 use Exercici7;
-
-insert into Cliente(id, Nombre, Apellido, Telefono, Email ,Direccion)
+insert into Cliente(id, Nombre, Apellidos, Telefono, Email ,Direccion)
 Values ("0","Martin","Perez","621384533","nalaronnnpp@gmail.com","Calle Puentes 23 3a");
-insert into Cliente(id, Nombre, Apellido, Telefono, Email ,Direccion)
+insert into Cliente(id, Nombre, Apellidos, Telefono, Email ,Direccion)
 Values ("1","Kiko","Sanchez","672435344","kioksk@gmail.com","C/ Morelul del valle 88 1b");
-insert into Cliente(id, Nombre, Apellido, Telefono, Email ,Direccion)
+insert into Cliente(id, Nombre, Apellidos, Telefono, Email ,Direccion)
 Values ("2","Juan","Cardona","616623244","ijgjios@gmail.com","Calle mianmar 143 2b");
-insert into Empleado(id, Nombre, Apellido, Telefono, Direccion ,FechaNacimiento, DNI)
+insert into Empleado(id, Nombre, Apellidos, Telefono, Direccion ,FechaNacimiento, DNI)
 Values ("0","Pepe","Coyas","623444122","Calle mianmar 143 2b", "19/09/1998", "45237722C");
-insert into Empleado(id, Nombre, Apellido, Telefono, Direccion ,FechaNacimiento, DNI)
+insert into Empleado(id, Nombre, Apellidos, Telefono, Direccion ,FechaNacimiento, DNI)
 Values ("1","Maria","Camacho","678795342","Calle Orejones 23 1a", "10/12/1989", "41623927E");
 insert into Producto(id, Nombre, Descripcion, Precio, IVA, CodeBarras)
 Values ("0","Anillo","Anillo de diamantes menorquines","6787","21", "620000001");
